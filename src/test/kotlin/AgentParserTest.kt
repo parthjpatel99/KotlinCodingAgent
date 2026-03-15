@@ -1,4 +1,3 @@
-/*
 package org.example
 
 import kotlin.test.Test
@@ -68,4 +67,3 @@ class AgentParserTest {
         assertEquals("world", args["new_str"])
     }
 }
-*/
