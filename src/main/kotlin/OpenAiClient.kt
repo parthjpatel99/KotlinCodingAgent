@@ -5,7 +5,7 @@ import com.openai.client.okhttp.OpenAIOkHttpClient
 import com.openai.models.ChatModel
 import com.openai.models.chat.completions.ChatCompletionCreateParams
 
-private val MODEL = ChatModel.GPT_5_1_CODEX
+private val MODEL = ChatModel.GPT_5_2
 
 class OpenAiClient(apiKey: String) {
 
