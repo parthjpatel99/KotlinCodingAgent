@@ -21,7 +21,7 @@ This keeps the implementation simple and transparent, and works with any chat mo
 
 ## Demo
 
-<video src="demo.mp4" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/a68441e8-f90c-4594-ba85-939fa0ad7b54" controls width="100%"></video>
 
 ## Quick start
 
